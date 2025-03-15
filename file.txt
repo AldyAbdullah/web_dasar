@@ -1,1 +1,1 @@
-bang ACC bangggg
+print("hallo world");
